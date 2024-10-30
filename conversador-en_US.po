@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-15 17:10-0200\n"
+"PO-Revision-Date: 2010-07-28 14:46-0400\n"
+"Last-Translator: Federico Larumbe <federico.larumbe@gmail.com>\n"
+"Language-Team: Federico Larumbe <federico.larumbe@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.1\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Domain: conversador\n"
+
+#. Plugin Name of an extension
+msgid "Conversador"
+msgstr "Conversador"
+
+#. #-#-#-#-#  conversador.pot  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  conversador.pot  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://hamartia.com.ar/2009/10/15/conversador/"
+msgstr "http://hamartia.com.ar/2009/10/15/conversador/"
+
+#. Description of an extension
+msgid ""
+"Chat with a fictitious character that learns from you. The bot records all "
+"the conversations and uses the users answers to write."
+msgstr ""
+"Chat with a fictitious character that learns from you. The bot records all "
+"the conversations and uses the users answers to write."
+
+#. Author of an extension
+msgid "Federico Larumbe"
+msgstr "Federico Larumbe"
+
+msgid "Chat with"
+msgstr "Chat with"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "is writing"
+msgstr "is writing"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "See you later..."
+msgstr "See you later..."
+
+msgid "How is it going $personaje1?"
+msgstr "How is it going $personaje1?"
+
+msgid "Read a previous conversation..."
+msgstr "Read a previous conversation..."
+
+msgid "Conversation"
+msgstr "Conversation"
+
+msgid "Another conversation..."
+msgstr "Another conversation..."
+
+msgid "Administration priviliges are needed to access this page."
+msgstr "Administration priviliges are needed to access this page."
+
+msgid "Conversations"
+msgstr "Conversations"
+
+msgid "Last conversation with"
+msgstr "Last conversation with"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Characters"
+msgstr "Characters"
+
+msgid "Last conversations"
+msgstr "Last conversations"
+
+msgid "Last conversations..."
+msgstr "Last conversations..."
+
+msgid "Older"
+msgstr "Older"
+
+msgid "Random conversation"
+msgstr "Random conversation"
+
+msgid "Newer"
+msgstr "Newer"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Messages count"
+msgstr "Messages count"
+
+msgid "With"
+msgstr "With"
+

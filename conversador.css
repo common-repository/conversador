@@ -1,0 +1,65 @@
+body {
+    font-family:arial, helvetica, sans-serif;
+}
+a, a:visited {
+    color: #000000;
+}
+.ventanaConversador {
+    background-color: #fff;
+    width: 350px;
+}
+.ventanaConversador .avatar {
+    width: 96px;
+    height: 100px;
+    margin: 23px 8px 8px 0;
+    background-repeat: no-repeat;
+}
+/* In order to make different characters avatars, copy next three lines
+and change the name 'kalko'. IMPORTANT: DO NOT add a space before '.personaje' */
+.ventanaConversador.personaje-kalko .avatar {
+    background-image: url(images/kalko.jpg);
+}
+.ventanaConversador .areaConversacion {
+    background-color: #ece9d8;
+    width: 350px;
+    height: 250px;
+    overflow: auto;
+}
+.ventanaConversador .textoInterlocutor {
+    width: 300px;
+    height: 90px;
+    font-size: 12px;
+    font-family:Arial,Helvetica,sans-serif;
+}
+.ventanaConversador .enviar {
+    width: 150px;
+}
+.leerConversacion {
+    font-size: 11px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.frmLoginConversador {
+    background-color: #fff;
+    width: 350px;
+    height: 400px;
+}
+.frmLoginConversador .nombreInterlocutor {
+    width: 200px;
+    background-color:#ECE9D8;
+}
+.frmLoginConversador .ingresar {
+    width: 150px;
+    margin: 20px 62px;
+}
+.frmLoginConversador .encabezadoInicio {
+    width: 366px;
+    height: 10px;
+    margin: 0px 0px 0px 0;
+}
+.debug {
+    background-color: #eaeaea;
+    width: 300px;
+    height: 200px;
+    overflow: auto;
+    float: right;
+}

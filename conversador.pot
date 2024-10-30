@@ -1,0 +1,90 @@
+#. Plugin Name of an extension
+msgid "Conversador"
+msgstr ""
+
+#. #-#-#-#-#  conversador.pot  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  conversador.pot  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://hamartia.com.ar/2009/10/15/conversador/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Chat with a fictitious character that learns from you. The bot records all "
+"the conversations and uses the users answers to write."
+msgstr ""
+
+#. Author of an extension
+msgid "Federico Larumbe"
+msgstr ""
+
+msgid "Chat with"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "is writing"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "See you later..."
+msgstr ""
+
+msgid "How is it going $personaje1?"
+msgstr ""
+
+msgid "Read a previous conversation..."
+msgstr ""
+
+msgid "Conversation"
+msgstr ""
+
+msgid "Another conversation..."
+msgstr ""
+
+msgid "Administration priviliges are needed to access this page."
+msgstr ""
+
+msgid "Conversations"
+msgstr ""
+
+msgid "Last conversation with"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "Last conversations"
+msgstr ""
+
+msgid "Last conversations..."
+msgstr ""
+
+msgid "Older"
+msgstr ""
+
+msgid "Random conversation"
+msgstr ""
+
+msgid "Newer"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Messages count"
+msgstr ""
+
+msgid "With"
+msgstr ""
+

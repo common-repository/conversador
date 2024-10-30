@@ -1,0 +1,105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-15 17:10-0200\n"
+"PO-Revision-Date: 2010-07-28 14:45-0400\n"
+"Last-Translator: Federico Larumbe <federico.larumbe@gmail.com>\n"
+"Language-Team: Federico Larumbe <federico.larumbe@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.2.1\n"
+
+#. Plugin Name of an extension
+msgid "Conversador"
+msgstr "Conversador"
+
+#. #-#-#-#-#  conversador.pot  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  conversador.pot  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://hamartia.com.ar/2009/10/15/conversador/"
+msgstr "http://hamartia.com.ar/2009/10/15/conversador/"
+
+#. Description of an extension
+msgid ""
+"Chat with a fictitious character that learns from you. The bot records all "
+"the conversations and uses the users answers to write."
+msgstr "Converse con un personaje ficticio que aprende de usted. El bot "
+"almacena las conversaciones y usa las respuestas de los usuarios para escribir."
+
+#. Author of an extension
+msgid "Federico Larumbe"
+msgstr "Federico Larumbe"
+
+msgid "Chat with"
+msgstr "Conversar con"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "is writing"
+msgstr "est&aacute; escribiendo"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Chat"
+msgstr "Conversar"
+
+msgid "See you later..."
+msgstr "Nos vemos despu&eacute;s..."
+
+msgid "How is it going $personaje1?"
+msgstr "Cómo va todo $personaje1?"
+
+msgid "Read a previous conversation..."
+msgstr "Leer una conversaci&oacute;n anterior..."
+
+msgid "Conversation"
+msgstr "Conversaci&oacute;n"
+
+msgid "Another conversation..."
+msgstr "Otra conversaci&oacute;n..."
+
+msgid "Characters"
+msgstr "Personajes"
+
+msgid "Administration priviliges are needed to access this page."
+msgstr "Se necesitan permisos de administración para acceder a esta página."
+
+msgid "Conversations"
+msgstr "Conversaciones"
+
+msgid "Last conversation with"
+msgstr "Última conversación con"
+
+msgid "Messages"
+msgstr "Mensajes"
+
+msgid "Last conversations"
+msgstr "Últimas conversaciones"
+
+msgid "Older"
+msgstr "Anteriores"
+
+msgid "Random conversation"
+msgstr "Conversación aleatoria"
+
+msgid "Newer"
+msgstr "Nuevas"
+
+msgid "Last conversations..."
+msgstr "Últimas conversaciones..."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Messages count"
+msgstr "Cantidad de mensajes"
+
+msgid "With"
+msgstr "Con"
+
